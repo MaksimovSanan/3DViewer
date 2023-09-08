@@ -1,6 +1,6 @@
 # 3DViewer
 
-## __Version 1__ :white_check_mark:
+## [__Version 1__](src/v1/) :white_check_mark:
 
 C/Qt
 
@@ -9,7 +9,7 @@ ___path:___ _/src/v1_
 
 ___
 
-## __Version 2__ ___(in progress)___:clock2:
+## [__Version 2__](src/v2/) ___(in progress)___:clock2:
 ___with: github.com/maybeIllchangeitlater___
 
 C++/Qt
