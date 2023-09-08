@@ -1,0 +1,26 @@
+# 3DViewer
+
+## __Version 1__ 
+:white_check_mark:
+
+C/Qt
+
+___path:___ _/src/v1_
+
+___
+
+## __Version 2__ ___(in progress)___
+
+:clock2:
+
+C++/Qt
+
+___path:___ _/src/v2_
+
+
+___Used patterns:___
+- MVC :white_check_mark:
+- Strategy :white_check_mark:
+- Observer :clock2:
+
+Multithreading :clock2:
