@@ -25,3 +25,5 @@ ___Used patterns:___
 Shaders :white_check_mark:
 
 Multithreading :clock2:
+
+Makefile target to install Qt libs :clock2:
