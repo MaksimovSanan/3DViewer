@@ -10,7 +10,7 @@ ___path:___ _/src/v1_
 ___
 
 ## [__Version 2__](src/v2/) ___(in progress)___:clock2:
-___with: github.com/maybeIllchangeitlater___
+___with: [susanel](github.com/maybeIllchangeitlater___)___
 
 C++/Qt
 
