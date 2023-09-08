@@ -22,7 +22,7 @@ ___Used patterns:___
 - Strategy :white_check_mark:
 - Observer :clock2:
 
-Shaders :white_check_mark:
+Shaiders :white_check_mark:
 
 Multithreading :clock2:
 
