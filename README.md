@@ -6,8 +6,6 @@ C/Qt
 
 ___path:___ _/src/v1_
 
-___
-
 ## __Version 2__ ___(in progress)___:clock2:
 ___with: github.com/maybeIllchangeitlater___
 
