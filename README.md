@@ -31,6 +31,6 @@ Multithreading :white_check_mark:
 
 Makefile target to install Qt libs :clock2:
 
-![Иллюстрация к проекту](https://github.com/MaksimovSanan/3DViewer/tree/main/v2/misc/images/Screenshot1.png)
+![Иллюстрация к проекту](https://github.com/MaksimovSanan/3DViewer/blob/main/v2/misc/images/Screenshot1.png)
 
-![Иллюстрация к проекту](https://github.com/MaksimovSanan/3DViewer/tree/main/v2/misc/images/output.gif)
+![Иллюстрация к проекту](https://github.com/MaksimovSanan/3DViewer/blob/main/v2/misc/images/output.gif)
