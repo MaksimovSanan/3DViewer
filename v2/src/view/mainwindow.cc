@@ -264,7 +264,7 @@ void MainWindow::MakeScreenshot(enum ScreenShotMode mode) {
 
 void MainWindow::MakeGif() {
   connect(&timer_, &QTimer::timeout, this, [&, this]() {
-    if (image_.size() >= 50) {
+    if (image_.size() >= 250) {
       timer_.stop();
       std::thread t2([this]() { CompileAndSaveGif(); });
       t2.detach();
