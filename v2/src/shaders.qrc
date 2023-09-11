@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/FragShader.txt</file>
+        <file>resources/VertexShader.txt</file>
+        <file>resources/VertexShaderCPU.txt</file>
+        <file>resources/GeometryShader.txt</file>
+        <file>resources/FragShaderNoGeometry.txt</file>
+        <file>resources/GeometryShaderPointsOnly.txt</file>
+        <file>resources/FragShaderPointsOnly.txt</file>
+        <file>resources/GeometryShaderCustomizableLines.txt</file>
+    </qresource>
+</RCC>
