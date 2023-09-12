@@ -1,6 +1,8 @@
 # 3DViewer
 ## :shipit: You need to install Qt libs and run install target of makefile:heavy_exclamation_mark:
 ___(or you can find the executable find for MacOS [here](https://github.com/MaksimovSanan/3DViewer/tree/main/v2/bin/viewer)(v2))___
+
+    open v2/bin/viewer/viewer.app
 ___
 
 ## [__Version 1__](src/v1/) :white_check_mark:
